@@ -1,0 +1,14 @@
+# https://towardsdatascience.com/unleashing-the-power-of-gpt-how-to-fine-tune-your-model-da35c90766c4
+1. dataset_finetune.py
+2. finetune_model.py
+3. Maybe install# pip install wandb
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+# test by command 
+$python test_chatgpt.py
+
+pip install --upgrade openai
+export OPENAI_API_KEY="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"
+
+//--> Finetune 
+https://youtu.be/3EdEw4gyr-s
+https://www.youtube.com/watch?v=5trBV7rqiTo
+https://www.youtube.com/watch?v=muxtjezs3BQ
+https://www.youtube.com/watch?v=fOpFhRclaEk
